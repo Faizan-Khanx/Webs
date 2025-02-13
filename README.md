@@ -61,8 +61,13 @@ For every new addition, you will find a **preview animation video** and a **live
     Air Phones Landing Page & Slider
 </h1>
 
+![Screenshot 2025-02-13 155656](https://github.com/user-attachments/assets/ff2846a9-a00a-4d91-bd48-9dc6feae13f7)
+
+![Screenshot 2025-02-13 155714](https://github.com/user-attachments/assets/ea205b37-6b7e-48ee-a76d-f2cce17403a2)
+
 
 https://github.com/user-attachments/assets/5533f1fd-c1fa-4d1e-a43b-ce4039222b15
+
 
 - Website Preview: https://faizan-khanx.github.io/Webs/AirdPods/
 - Source Code: https://github.com/faizan-khanx/Webs/AirdPods/
