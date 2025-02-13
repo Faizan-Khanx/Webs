@@ -1,3 +1,4 @@
+
 # Amazing Web Designs Repository
 
 Welcome to the **Amazing Web Designs** repository! This repository is dedicated to showcasing creative, functional, and innovative web designs. Every week, I will add **two amazing and useful website source codes** to this repository, complete with animations and previews.
@@ -8,7 +9,9 @@ Welcome to the **Amazing Web Designs** repository! This repository is dedicated 
 
 1. [Introduction](#introduction)
 2. [Coca Cola](#website-1)
-3. [AirPods ](#website-2) 
+3. [AirPods ](#website-2)
+4. [Maclaren ](#website-3) 
+
 
 ---
 
@@ -73,7 +76,17 @@ https://github.com/user-attachments/assets/5533f1fd-c1fa-4d1e-a43b-ce4039222b15
 - Source Code: https://github.com/faizan-khanx/Webs/AirdPods/
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
+# Website 3
 
+<h1 align="center">
+    Maclaren Landing Page & Slider
+</h1>
 
+![Screenshot 2025-02-13 162010](https://github.com/user-attachments/assets/b4beabb4-6560-49fc-81e2-0a583d08cef6)
+
+https://github.com/user-attachments/assets/6984955c-0e63-42b9-b18d-58a81064af28
+
+- Website Preview: https://faizan-khanx.github.io/Webs/Maclaren/
+- Source Code: https://github.com/faizan-khanx/Webs/Maclaren/
 
 
