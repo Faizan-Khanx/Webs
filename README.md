@@ -7,7 +7,8 @@ Welcome to the **Amazing Web Designs** repository! This repository is dedicated 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Coca Cola](#website-1) 
+2. [Coca Cola](#website-1)
+3. [AirPods ](#website-2) 
 
 ---
 
@@ -51,3 +52,23 @@ For every new addition, you will find a **preview animation video** and a **live
 
 - You Can Access This Website Here: https://faizan-khanx.github.io/Webs/CocaCola/
 -  Source Code: https://github.com/faizan-khanx/Webs/CocaCola/
+
+---
+
+# Website 2
+
+<h1 align="center">
+    Air Phones Landing Page & Slider
+</h1>
+
+
+https://github.com/user-attachments/assets/5533f1fd-c1fa-4d1e-a43b-ce4039222b15
+
+- Website Preview: https://faizan-khanx.github.io/Webs/AirdPods/
+- Source Code: https://github.com/faizan-khanx/Webs/AirdPods/
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+
+
+
+
