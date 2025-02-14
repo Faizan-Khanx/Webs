@@ -16,7 +16,10 @@ That’s why I created this repository—to give back to the **developer communi
 1. [Introduction](#introduction)  
 2. [Coca-Cola Landing Page](#1-coca-cola-landing-page)  
 3. [AirPods Landing Page & Slider](#2-airpods-landing-page--slider)  
-4. [Maclaren Landing Page](#3-maclaren-landing-page)  
+4. [Maclaren Landing Page](#3-maclaren-landing-page)
+5. [KFC Landing Page](#4-kfc-landing-page)
+6. [Responsive Portfolio](5#-responsive-portfolio)
+
 
 ---
 
@@ -94,8 +97,44 @@ A high-performance landing page for the Maclaren brand, featuring dynamic slider
 - **[Source Code](https://github.com/faizan-khanx/Webs/Maclaren/)**  
 
 ---
-## Contributing
+## **4. KFC Landing Page**
 
+<h1 align="center"> KFC Landing Page </h1>
+
+### **Discription**
+
+This KFC-inspired landing page features a modern design with interactive animations and smooth navigation. Built with HTML, CSS, and JavaScript, it’s fully responsive and perfect for showcasing food items or promotional products.
+
+### **Screenshot**
+
+![Screenshot 2025-02-14 140559](https://github.com/user-attachments/assets/5ea2eb3a-a2f2-4724-bf2d-d416ae25c991)
+![Screenshot 2025-02-14 140611](https://github.com/user-attachments/assets/0a1db7c7-f589-4980-a420-8a1349dea750)
+
+- **[Live Preview](https://faizan-khanx.github.io/Webs/KFC/)**  
+- **[Source Code](https://github.com/faizan-khanx/Webs/KFC/)**  
+
+---
+
+## **5. Responsive Portfolio**
+
+<h1 align="center">Resposive Portfolio </h1>
+
+### **Discription**
+
+This Responive Portfolio features a modern design with interactive animations and smooth navigation. Built with HTML, CSS, and JavaScript, it’s fully responsive and perfect for showcasing food items or promotional products.
+
+### **Screenshot**
+
+![Screenshot 2025-02-14 143340](https://github.com/user-attachments/assets/1d8e287b-417d-46b3-8689-54660ecf06d2)
+![Screenshot 2025-02-14 143357](https://github.com/user-attachments/assets/6830f2ca-fa08-404f-af1c-3e81866e9982)
+![Screenshot 2025-02-14 143426](https://github.com/user-attachments/assets/d89222eb-be91-4ccf-9dfd-46694c6670de)
+![Screenshot 2025-02-14 143441](https://github.com/user-attachments/assets/b27abfb5-ebfc-4c03-8c87-d6d701938768)
+
+
+- **[Live Preview](https://faizan-khanx.github.io/Webs/Portfolio/)**  
+- **[Source Code](https://github.com/faizan-khanx/Webs/Portfolio/)** 
+---
+## Contributing
 Contributions are welcome! To contribute, fork the repository and submit a pull request with your improvements.
 
 1. Fork the repository.
