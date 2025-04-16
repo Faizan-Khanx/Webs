@@ -134,6 +134,31 @@ This Responive Portfolio features a modern design with interactive animations an
 - **[Live Preview](https://faizan-khanx.github.io/Webs/Portfolio/)**  
 - **[Source Code](https://github.com/faizan-khanx/Webs/Portfolio/)** 
 ---
+
+## **4. Cutuu Website For Your Love**
+
+<h1 align="center"> Cutuuu Landing Page </h1>
+
+### **Discription**
+
+This Cutuuu Website Is Made For Your Love  With Amazing Frotend You Change Name In Code And Send It To Your Girlfriend, Bestfriend, Sister and Others 
+This Page offers love theme which is suitable for all relations whether he/she is your gf/bf , brother/sister and all...
+
+### **Screenshot**
+
+
+https://github.com/user-attachments/assets/c41993e9-1fe7-40ad-9ab2-3152ccd83146
+
+![Screenshot 2025-04-16 193233](https://github.com/user-attachments/assets/65539edc-1317-49a1-856c-36d6a1d62148)
+
+![Screenshot 2025-04-16 193242](https://github.com/user-attachments/assets/a202ee62-1fcf-4071-838e-d6dd865cdc58)
+
+![Screenshot 2025-04-16 193255](https://github.com/user-attachments/assets/a7eae18e-cfab-42ca-a2c7-e67e44faefa2)
+
+- **[Live Preview](https://faizan-khanx.github.io/Webs/cutuuu/)**  
+- **[Source Code](https://github.com/faizan-khanx/Webs/cutuuu/)**  
+
+---
 ## Contributing
 Contributions are welcome! To contribute, fork the repository and submit a pull request with your improvements.
 
@@ -160,7 +185,7 @@ For any questions or feedback, please contact [E-Mail Me](mailto:fk776794@gmail.
 
 <!-- To Link your profile to the media buttons -->
 
-[2]: https://www.instagram.com/EthicalFaizan
+[2]: https://www.instagram.com/EthicalFaizann
 [3]: https://www.twitter.com/EthicalFaizan
 [4]: https://www.linkedin.com/in/EthicalFaizan
 [5]: https://www.github.com/faizan-khanx
